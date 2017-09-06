@@ -13,7 +13,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### 效果图
 
-！[](./docs/img.1.png)
+![](./docs/img.1.png)
 
 ### Support or Contact
 

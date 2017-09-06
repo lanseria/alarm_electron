@@ -11,9 +11,9 @@
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 效果图
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lanseria/alarm_electron/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+！[](./docs/img.1.png)
 
 ### Support or Contact
 

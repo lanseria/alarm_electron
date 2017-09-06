@@ -9,8 +9,6 @@
 
 **普通用户双击exe文件即可**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### 效果图
 
 ![](./docs/img/1.png)

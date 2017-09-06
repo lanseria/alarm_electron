@@ -1,30 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to alarm_electron
 
-You can use the [editor on GitHub](https://github.com/Lanseria/alarm_electron/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+几乎全部都用了html原生API
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 使用
 
-### Markdown
+[Github](https://github.com/Lanseria/alarm_electron)
+[rar file](https://github.com/Lanseria/alarm_electron/releases/download/v1.0/alarm-win32-x64.rar)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+**普通用户双击exe文件即可**
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
